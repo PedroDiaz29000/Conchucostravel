@@ -24767,8 +24767,72 @@ h1.entry-title {
     .fusion-body .tribe-events-tickets-rsvp .quantity input {
         padding: 0
     }
+      #redes-sociales   { 
+     /*height: 60px;
+    width: 106%;
+    background-color: #22435e;
+    margin-left: -3%;
+     float: left; 
+    padding-left: 350px;*/
+    height: 65px;
+    width: 159%;
+    background-color: #22435e;
+    margin-left: -10%;
+    /* float: left; */
+    padding-left: 350px;
 }
 
-/*.custom-html-widget{
-    background-color: #000;
+ #redes-sociales a div {
+        float: left;
+    width: 51px;
+    height: 51px;
+    margin-top: 0.6%;
+    margin-left: 6%;
+    /* background-color: #131; */
+
+}
+}
+
+  #redes-sociales   { 
+     height: 60px;
+    width: 106%;
+    background-color: #22435e;
+    margin-left: -3%;
+     float: left; 
+    padding-left: 350px;
+}
+
+ #redes-sociales a div {
+        float: left;
+    width: 51px;
+    height: 51px;
+    margin-top: 0.6%;
+    margin-left: 6%;
+     /*background-color: #131; */
+
+}
+/*
+#icon-fb {
+    background-image: url(extras-travel/logos/logo-ico-fa-hover.png);
+}
+#icon-fb:hover {
+    background-image: url(extras-travel/logos/logo-ico-fa-plomo.png);
+}
+#icon-twitter {
+    background-image: url(extras-travel/logos/logo-tw.png);
+}
+#icon-twitter:hover {
+    background-image: url(extras-travel/logos/logo-tw-hover.png);
+}
+#icon-youtube {
+    background-image: url(extras-travel/logos/logos/logo-youtube.png);
+}
+#icon-youtube:hover {
+    background-image: url(extras-travel/logos/logos/logo-youtube-hover.png);
+}
+#icon-whatsapp {
+    background-image: url(extras-travel/logos/logos/logo-wh.png);
+}
+#icon-whatsapp:hover {
+    background-image: url(extras-travel/logos/logos/logo-wh-plomo.png);
 }*/

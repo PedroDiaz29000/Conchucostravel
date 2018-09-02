@@ -1,32 +1,12 @@
-  #redes-sociales   { 
+/*  #redes-sociales   { 
 	height: 60px;
 	width: 100%;  
 	background-color: #f21236;
 	float: left;
 	padding-left: 350px;
 }
-/*#bot_redes #redes-sociales #text-index p{
-	color: #ffffff;
-	margin-left: 30%;
-	font-size: 22px;
-	margin-top: 3%;
-	padding-top: 0px 10px 10px 10px;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-}*/
-/*
-#contenedor #bot_redes p {
-	color: #FFFFFF;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-	font-size: 20pt;
-	float: left;
-	    margin-top: 25px
-}
-#contenedor #bot_redes img {
-	float: left;
-	padding-left: 20px;
-	padding-top: 18px;
-}*/
- #redes-sociales #redes-sociales a div {
+
+ #redes-sociales a div {
     float: left;
     width: 51px;
     height: 51px;
@@ -38,7 +18,7 @@
     background-image: url(extras-travel/logos/logo-ico-fa-hover.png);
 }
 #icon-fb:hover {
-    background-image: url(extras-travel/logos/logos/logo-ico-fa-plomo.png);
+    background-image: url(extras-travel/logos/logo-ico-fa-plomo.png);
 }
 #icon-twitter {
     background-image: url(extras-travel/logos/logo-tw.png);
@@ -57,4 +37,4 @@
 }
 #icon-whatsapp:hover {
     background-image: url(extras-travel/logos/logos/logo-wh-plomo.png);
-}
+}*/
