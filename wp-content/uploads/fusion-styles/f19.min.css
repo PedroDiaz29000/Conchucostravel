@@ -6365,7 +6365,8 @@ html[xmlns] .flexslider .slides {
 }
 
 .fusion-image-carousel {
-    margin-bottom: 40px
+    margin-bottom: 40px;
+    margin-left: 12%;
 }
 
 .fusion-carousel {
@@ -18661,10 +18662,10 @@ body .portfolio-grid {
 body, html, html body.custom-background {
     background-color: #ffffff;
 }
-
+/*modificado 02082018*/
 #main, .fusion-footer-copyright-area, .fusion-footer-widget-area, .fusion-page-title-bar, .fusion-secondary-header, .fusion-sliding-bar-position-bottom .fusion-sliding-bar, .fusion-sliding-bar-position-top .fusion-sliding-bar, .header-v4 #small-nav, .header-v5 #small-nav, .sticky-header .sticky-shadow, .tfs-slider .slide-content-container {
-    padding-left: 30px;
-    padding-right: 30px;
+   /* padding-left: 30px;
+    padding-right: 30px;*/
 }
 
 .width-100 .fusion-fullwidth {

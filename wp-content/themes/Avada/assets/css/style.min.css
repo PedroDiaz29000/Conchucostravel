@@ -388,9 +388,9 @@ fieldset, form {
     margin: 0 auto;
     max-width: 1400px
 }
-
+/*mofificado02082018*/
 #main {
-    padding: 55px 10px 45px;
+    /*padding: 55px 10px 45px;*/
     background: #fff;
     clear: both
 }
