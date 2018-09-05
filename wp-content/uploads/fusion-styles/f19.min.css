@@ -24769,25 +24769,21 @@ h1.entry-title {
         padding: 0
     }
       #redes-sociales   { 
-     /*height: 60px;
+     height: 104px;
     width: 106%;
     background-color: #22435e;
     margin-left: -3%;
-     float: left; 
-    padding-left: 350px;*/
-    height: 65px;
-    width: 159%;
-    background-color: #22435e;
-    margin-left: -10%;
-    /* float: left; */
-    padding-left: 350px;
+    float: left;
+    padding-left: 25%;
+    margin-top: -6%;
+    z-index: 20;
 }
 
  #redes-sociales a div {
         float: left;
     width: 51px;
     height: 51px;
-    margin-top: 0.6%;
+    margin-top: 2.6%;
     margin-left: 6%;
     /* background-color: #131; */
 
