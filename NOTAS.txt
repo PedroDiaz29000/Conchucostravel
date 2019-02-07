@@ -9,3 +9,11 @@ http://pensionparrillasanroque.es/
 -------------------------------------------
 https://www.youtube.com/watch?v=oRhU90wCghY
 -------------------------------------------
+/*descarga https://www.minimatters.com/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/
+*/
+/*descargar https://www.minimatters.com/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/
+*/
+/*descarga http://astronautweb.co/snippet/font-awesome/
+*/
+/*descarga https://icomoon.io/app/#/select
+*/
